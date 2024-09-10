@@ -1,6 +1,6 @@
-# Product Viewer App
+# Shop Viewer
 
-The **Shop Viewer App** is a Flutter-based mobile application designed to allow users to browse and view products by categories. The app fetches data from an external API using HTTP requests and dynamically updates the product list when a category is selected.
+The **Shop Viewer** is a Flutter-based mobile application designed to allow users to browse and view products by categories. The app fetches data from an external API using HTTP requests and dynamically updates the product list when a category is selected.
 
 ## Features
 - View a list of product categories.
