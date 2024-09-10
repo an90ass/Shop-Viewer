@@ -37,17 +37,3 @@ The **Shop Viewer** is a Flutter-based mobile application designed to allow user
 6. **Run the Flutter app**: After ensuring the API server is running, start the Flutter application:
    ```bash
    flutter run
-
-
-   
-
-
-
-
-
- 
-
-
-
-
-
